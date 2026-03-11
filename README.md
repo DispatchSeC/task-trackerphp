@@ -11,8 +11,8 @@ cp .env.example .env
 php spark serve
 
 Настройка БД:
-Откройте созданный файл .env.example
+Откройте файл .env.example
 
-Укажите параметры подключения к БД в разделе database.default.
+Укажите параметры подключения к БД в  database.default.
 
-Приложение доступно по адресу: http://localhost:8080.
+Адрес: http://localhost:8080.
