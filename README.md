@@ -2,10 +2,15 @@
 
 Установка:
 git clone https://github.com/DispatchSeC/task-trackerphp.git
+
 PHP 8.0+
+
 Composer
+
 Локальный сервер (XAMPP)
+
 MySQL
+
 cd task-trackerphp
 
 cp .env.example .env
