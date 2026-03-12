@@ -1,10 +1,12 @@
 Создал на PHP 8.x и CodeIgniter 4.
 
+Установка:
 git clone https://github.com/DispatchSeC/task-trackerphp.git
-
+PHP 8.0+
+Composer
+Локальный сервер (XAMPP)
+MySQL
 cd task-trackerphp
-
-composer install
 
 cp .env.example .env
 
